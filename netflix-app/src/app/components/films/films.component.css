@@ -1,0 +1,37 @@
+h2{
+    color: white;
+    margin-left: 50px;
+}
+
+section{
+    /* width: 95vw; */
+    overflow: auto;
+    white-space: nowrap;
+}
+section a:hover{
+    background-color: #777;
+}
+
+ul{
+    
+    display:flex;
+    margin: 0;
+    color: rgb(96, 94, 94);
+    text-shadow: -6px -1px 0 #fbfbfb,  
+    1px -1px 0 #fcf9f9,
+    -5px 1px 0 #fffbfb,
+    1px 1px 0 #f6f0f0;
+
+}
+img{
+    width: 18px;
+    height:10px ;
+    object-fit: cover;
+    text-decoration: white;
+    width: 250px ;
+    height: 300px; 
+    padding: 10px;
+    list-style: none;
+
+    
+}
